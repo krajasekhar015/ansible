@@ -1,5 +1,3 @@
-Welcome to the ansible wiki!
-
 # **What is Ansible?**?
 Ansible is an open-source automation tool used primarily for configuration management, application deployment, and task automation. It is known for its simplicity and ease of use, making it a popular choice for managing both small and large-scale IT environments.
 # Key Features of Ansible
